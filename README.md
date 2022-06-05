@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shreya-Sharma8
-- 👀 I’m interested in solving real world problems using various techs
+- 👀 I’m interested in solving problems using various techs
 - 🌱 I’m currently pursuing Computer Science Engineering
 - 💞️ I’m looking to collaborate on interesting projects matching my profile work
 - 📫 How to reach me at https://www.linkedin.com/in/shreya-sharma-45599a192/
